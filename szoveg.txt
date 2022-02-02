@@ -3,3 +3,7 @@ Első sor.
 
 git config --global user.email "szabo.gabor@4brainz.hu"
 git config --global user.name "Gabor Szabo"
+
+Mádosik sor.
+
+Harmadik sor.
