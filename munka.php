@@ -31,7 +31,7 @@ echo " <br><br>" . $x - $y;
 
 
 
-
+// saját gépen frissitve
 
 // itt a vége :)
 echo "Kontrikus lesz..."
