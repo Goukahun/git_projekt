@@ -18,6 +18,7 @@ https://4brainz.hu
 `<b>Kódrészlet</b>` ebben a sorban.
 
 ```php
-Kód
-kpsdpksadp
+$a = 1;
+$b = 2
+echo $a + $b;
 ```
