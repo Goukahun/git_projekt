@@ -17,12 +17,14 @@ https://4brainz.hu
 
 `<b>Kódrészlet</b>` ebben a sorban.
 
+### PHP kód:
 ```php
 $a = 1;
 $b = 2
 echo $a + $b;
 ```
 
+### Javascript kód
 ```javascript
 let p = 1;
 alert("Valami");
