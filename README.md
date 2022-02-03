@@ -14,3 +14,10 @@ Gyakorlás **videó** szerint *formázott* szöveg.
 https://4brainz.hu
 
 [4brainz](https://4brainz.hu)
+
+`<b>Kódrészlet</b>` ebben a sorban.
+
+```
+Kód
+kpsdpksadp
+```
