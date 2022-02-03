@@ -17,7 +17,7 @@ https://4brainz.hu
 
 `<b>Kódrészlet</b>` ebben a sorban.
 
-```
+```php
 Kód
 kpsdpksadp
 ```
