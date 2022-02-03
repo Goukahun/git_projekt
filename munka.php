@@ -8,10 +8,12 @@
 
 <<<<<<< HEAD
 $a = 105;
-$b = 17;
-$c = 12;
+$b = 19;
+$c = 18;
 
 echo $a + $b + $c;
+
+// a Guthubon szerkeztettem
 
 
 // Kivonás
